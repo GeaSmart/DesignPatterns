@@ -24,5 +24,4 @@ empleado.Cargo = cargo;
 empleado.Direccion = direccion;
 empleado.Telefonos = telefonos;
 
-
 Console.WriteLine(empleado);
