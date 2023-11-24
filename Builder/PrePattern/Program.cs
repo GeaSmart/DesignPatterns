@@ -1,8 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using System;
-using PostPattern.Entities;
-
-Console.WriteLine("Builder Pattern Applied!");
+Console.WriteLine("Example without Builder pattern!");
 
 Empleado empleado = new Empleado.EmpleadoBuilder()
     .SetId(123)
