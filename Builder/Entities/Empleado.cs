@@ -42,8 +42,7 @@ namespace Builder.Entities
             Area => {Area}
             Cargo => {Cargo}
             Direccion => {Direccion}
-            Telefonos => 
-                {string.Join(" | ", Telefonos)}";
+            Telefonos => {string.Join(" 🐿️ ", Telefonos)}";
         }
 
         public class EmpleadoBuilder : IBuilder<Empleado>
