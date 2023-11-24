@@ -1,4 +1,7 @@
-namespace Builder.Entities
+using System;
+using System.Collections.Generic;
+
+namespace PostPattern.Entities
 {
     public class Empleado
     {

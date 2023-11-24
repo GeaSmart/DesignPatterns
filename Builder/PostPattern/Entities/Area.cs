@@ -1,4 +1,6 @@
-namespace Builder.Entities
+using System.Collections.Generic;
+
+namespace PostPattern.Entities
 {
     public class Area
     {

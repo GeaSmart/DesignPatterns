@@ -1,4 +1,4 @@
-namespace Builder.Entities
+namespace PostPattern.Entities
 {
     public class Cargo
     {

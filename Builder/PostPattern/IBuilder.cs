@@ -1,4 +1,4 @@
-namespace Builder
+namespace PostPattern
 {
     public interface IBuilder<T>
     {

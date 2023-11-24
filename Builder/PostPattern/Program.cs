@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using Builder.Entities;
+using System;
+using PostPattern.Entities;
 
 Console.WriteLine("Hello, World!");
 
